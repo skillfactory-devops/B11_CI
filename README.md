@@ -1,4 +1,4 @@
-# Проектная работа 11. Continuous Integration
+## Проектная работа 11. Continuous Integration
 
 * Установил Jenkins на сервере №1, подргрузил [плагин Github](https://plugins.jenkins.io/github/),
 * Настроил сервер №2 в качестве Jenkins Agent'а,
