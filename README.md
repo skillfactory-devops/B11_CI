@@ -9,3 +9,4 @@
 * Убедился в работоспособности.
 
 История создания билдов доступна [здесь](https://jenkins-master.padme.keenetic.pro/job/Build%20site/).
+Тестовый веб-сайт — [здесь](https://jenkins-runner.padme.keenetic.pro/).
