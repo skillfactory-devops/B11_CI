@@ -1,8 +1,7 @@
 ## Проектная работа 11. Continuous Integration
 
-* Установил Jenkins на сервере №1, подргрузил [плагин Github](https://plugins.jenkins.io/github/),
+* Установил Jenkins на сервере №1, подргрузил плагины [Github](https://plugins.jenkins.io/github/) и [Telegram](https://plugins.jenkins.io/telegram-notifications),
 * Настроил сервер №2 в качестве Jenkins Agent'а,
-* Добавил в Jenkins плагины Github plugin и Telegram Bot,
 * В настройках этого репозитория создал веб-хук, отсылающий POST-запрос к Jenkins при каждом пуше коммита,
 * Убедился в его работоспособности на стороне Jenkins,
 * Дописал в pipeline создание на стороннем агенте веб-сервера, отдающего статический контент сайта (nginx в контейнере),
